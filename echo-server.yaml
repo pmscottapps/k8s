@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
     - name: echo-server
-      image: landrzejewski/echo-serve:v1
+      image: landrzejewski/echo-server:v1
       ports:
         - containerPort: 8080
